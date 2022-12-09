@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\eng\Desktop\depandemp\depandemp\emp.h(95,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\eng\Desktop\depandemp\depandemp\emp.h(123,28): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\eng\Desktop\depandemp\depandemp\emp.h(154,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\eng\Desktop\depandemp\depandemp\emp.h(158,21): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\eng\Desktop\depandemp\depandemp\emp.h(257,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\eng\Desktop\depandemp\depandemp\emp.h(279,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  depandemp.vcxproj -> C:\Users\eng\Desktop\depandemp\x64\Debug\depandemp.exe

@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\eng\Desktop\Depart\Depart\Header.h(89,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\eng\Desktop\Depart\Depart\Header.h(117,28): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\eng\Desktop\Depart\Depart\Header.h(147,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\eng\Desktop\Depart\Depart\Header.h(151,21): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\eng\Desktop\Depart\Depart\Header.h(250,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\eng\Desktop\Depart\Depart\Header.h(272,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Depart.vcxproj -> C:\Users\eng\Desktop\Depart\x64\Debug\Depart.exe
